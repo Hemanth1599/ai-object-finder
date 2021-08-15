@@ -1,0 +1,17 @@
+body{
+    background-size: cover;   
+}
+.heading{
+    width: 100%;
+    margin-top: 0;
+    line-height: 2;
+    font-size: 20;
+}
+label{
+    font-size: 18px;
+}
+.object_type{
+    width: 60%;
+    text-align: center;
+    line-height: 3;
+}
